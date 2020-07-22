@@ -4,3 +4,6 @@ This is a website for booking a table in a restaurant
  
  requirements:
  install xampp server on your system 
+ 
+ You can download the project code from here 
+ https://drive.google.com/file/d/1b8Qzt8JnXRSi3wD4z9rUtpCsu_QbecEc/view?usp=sharing
